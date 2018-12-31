@@ -1,4 +1,4 @@
-Olá pessoal
+﻿Olá pessoal
 Ao realizar o procedimento mostrado na aula, pode ser que algum erro seja retornado para você
 Se isso acontecer, podemos realizar algumas verificações para solucionar o problema
 
@@ -15,3 +15,5 @@ git push -u origin master
 É importante executar esses comandos na ordem
 Com esses procedimentos, conseguiremos adicionar nossos arquivos ao GitHub ou BitBucket
 Bons estudos a todos :)
+
+teste
